@@ -1,0 +1,40 @@
+* {
+    padding-left: 10px;
+}
+
+.checkbox{
+
+ height:70px;
+
+
+}
+.span1{
+
+
+ width: 500px;
+ height:30px;
+}
+hr{
+width: 500px;
+}
+
+body{
+
+	font-size: 24px;
+}
+
+#rembtn{
+width:75px;
+height:25px;
+float:right;
+
+}
+#RemCom{
+float:right;
+
+}
+.input1{
+
+height:300px;
+
+}
